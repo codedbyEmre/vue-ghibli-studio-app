@@ -2,9 +2,7 @@
 
 A fully responsible Studio Ghibli finder app that searches and filters movies. It was created by using Vue3,Vuex,Vue Router,Bootstrap5 and Scss.
 
-The API which was used on this project is here
-
-https://ghibliapi.herokuapp.com/#
+The API which was used on this project is <a href="https://ghibliapi.herokuapp.com/#" target="_blank">here</a>
 
 ![Screenshot from 2021-10-26 23-58-38](https://user-images.githubusercontent.com/67799995/138960017-13c73426-7199-4d8a-adcb-e8f8ba01d01f.png)
 
